@@ -31,7 +31,7 @@ button {
 }
 .header {
   position: relative;
-  width: 1440px;
+  width: 1240px;
   height: 94px;
   margin: 0 0 0 0;
   background: #ffffff;
@@ -203,7 +203,7 @@ button {
   position: relative;
   width: 22px;
   height: 22px;
-  background: url(./assets/images/779f588d-27e0-4d3c-b6cd-ce9a3fdcb3de.png)
+  background: url(../img/Login.png)
     no-repeat center;
   background-size: cover;
   z-index: 341;
@@ -229,7 +229,7 @@ button {
   position: relative;
   width: 22px;
   height: 22px;
-  background: url(./assets/images/21bab716-07ef-4a6f-b07e-79e384e672eb.png)
+  background: url(../img/Moon.svg)
     no-repeat center;
   background-size: cover;
   z-index: 343;
@@ -240,7 +240,7 @@ button {
   height: 40px;
   top: 27px;
   left: 120px;
-  background: url(./assets/images/a124b2a2-3325-4108-820d-378d0b3b642d.png)
+  background: url(../img/Logo\ \(1\).png)
     no-repeat center;
   background-size: cover;
   z-index: 329;
@@ -386,8 +386,9 @@ button {
 .button-a {
   flex-shrink: 0;
   position: relative;
-  width: 90px;
+ 
   height: 20px;
+  display: flex;
   cursor: pointer;
   color: #000000;
   font-family: Montserrat, var(--default-font-family);
@@ -499,7 +500,7 @@ button {
   width: 387px;
   height: 220px;
   margin: 16px 0 0 0;
-  background: url(./assets/images/a20664ee-d982-497d-8d7c-0023700281a6.png)
+  background: url(../img/image\ 13.png)
     no-repeat center;
   background-size: cover;
   z-index: 194;
@@ -529,7 +530,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/f1dc1827-5553-4159-8bc2-f87bb8c89efb.png)
+  background: url(../img/User.svg)
     no-repeat center;
   background-size: cover;
   z-index: 202;
@@ -563,7 +564,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/2522245b-08c8-45b6-b9b9-1d64086d2b71.png)
+  background: url(../img/gear\ 1.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 196;
@@ -608,7 +609,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/0fd184fa-0fdf-4917-a16a-151933d13c65.png)
+  background: url(../img/File-user.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 199;
@@ -642,7 +643,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/58ccd7e4-0a17-4d49-9542-6bbb125d7c09.png)
+  background: url(../img/petrol\ 1.svg)
     no-repeat center;
   background-size: cover;
   z-index: 205;
@@ -715,7 +716,7 @@ button {
   width: 387px;
   height: 220px;
   margin: 16px 0 0 0;
-  background: url(./assets/images/69a0f3e1-fc29-4286-a2ec-611f85f22baf.png)
+  background: url(../img/image\ 13\ \(1\).png)
     no-repeat center;
   background-size: cover;
   z-index: 228;
@@ -745,7 +746,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/4e4f490f-6fd2-43f1-a0dd-77af14dde33a.png)
+  background: url(../img/User.svg)
     no-repeat center;
   background-size: cover;
   z-index: 236;
@@ -779,7 +780,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/bc4ac0b1-91c9-4ea1-a606-92f8462c9a7b.png)
+  background: url(../img/gear\ 1.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 230;
@@ -824,7 +825,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/c1605cc5-ca8b-4e61-827a-88a194b4c8e6.png)
+  background: url(../img/File-user.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 233;
@@ -858,7 +859,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/e0a09d42-4d79-48c2-bde2-ef6a0b002133.png)
+  background: url(../img/petrol\ 1.svg)
     no-repeat center;
   background-size: cover;
   z-index: 239;
@@ -931,7 +932,7 @@ button {
   width: 387px;
   height: 220px;
   margin: 16px 0 0 0;
-  background: url(./assets/images/1b07eea6-a33c-41c2-a16a-4656d4d703e6.png)
+  background: url(../img/image\ 13\ \(2\).png)
     no-repeat center;
   background-size: cover;
   z-index: 262;
@@ -961,7 +962,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/b4c78401-2de8-4ad7-ba82-4902fc796126.png)
+  background: url(../img/User.svg)
     no-repeat center;
   background-size: cover;
   z-index: 270;
@@ -995,7 +996,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/e519329b-5caf-412d-858f-5097a3c5f4a4.png)
+  background: url(../img/gear\ 1.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 264;
@@ -1040,7 +1041,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/afd438c1-c07a-4b99-abd5-bb16007ce733.png)
+  background: url(../img/File-user.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 267;
@@ -1074,7 +1075,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/50274125-6e49-4d13-9bb6-1c40d171308f.png)
+  background: url(../img/petrol\ 1.svg)
     no-repeat center;
   background-size: cover;
   z-index: 273;
@@ -1157,7 +1158,7 @@ button {
   width: 387px;
   height: 220px;
   margin: 16px 0 0 0;
-  background: url(./assets/images/e0638aa8-a1b6-4723-b0dc-25a37e869fd1.png)
+  background: url(../img/image\ 13\ \(3\).png)
     no-repeat center;
   background-size: cover;
   z-index: 211;
@@ -1187,7 +1188,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/788a8f27-9cb5-4f56-8ba2-677234f847ef.png)
+  background: url(../img/User.svg)
     no-repeat center;
   background-size: cover;
   z-index: 219;
@@ -1221,7 +1222,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/8ef374f9-64de-49c1-89c8-c28fe6755a54.png)
+  background: url(../img/gear\ 1.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 213;
@@ -1266,7 +1267,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/f693d82f-1845-4844-a1f0-fdf353bebe7b.png)
+  background: url(../img/File-user.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 216;
@@ -1300,7 +1301,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/073233a8-3487-449d-b068-22c9c92b74d4.png)
+  background: url(../img/petrol\ 1.svg)
     no-repeat center;
   background-size: cover;
   z-index: 222;
@@ -1373,7 +1374,7 @@ button {
   width: 387px;
   height: 220px;
   margin: 16px 0 0 0;
-  background: url(./assets/images/2b6115c7-38ec-4197-a28f-f5b2c9aa43c4.png)
+  background: url(../img/image\ 13\ \(4\).png)
     no-repeat center;
   background-size: cover;
   z-index: 245;
@@ -1403,7 +1404,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/7a1c5328-cb95-4c6b-9b77-cb4cd5c2d6a7.png)
+  background: url(../img/User.svg)
     no-repeat center;
   background-size: cover;
   z-index: 253;
@@ -1437,7 +1438,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/721a576c-5b30-49d8-b2b3-1e411a667cbb.png)
+  background: url(../img/gear\ 1.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 247;
@@ -1482,7 +1483,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/3cd95a55-5271-45f5-8f68-1a38fd0871fd.png)
+  background: url(../img/File-user.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 250;
@@ -1516,7 +1517,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/b8819e50-e12e-4364-8987-2ecfa42f7180.png)
+  background: url(../img/petrol\ 1.svg)
     no-repeat center;
   background-size: cover;
   z-index: 256;
@@ -1589,7 +1590,7 @@ button {
   width: 387px;
   height: 220px;
   margin: 16px 0 0 0;
-  background: url(./assets/images/5e6b9aa1-91b4-4951-835a-6d646d5b1094.png)
+  background: url(../img/image\ 13\ \(5\).png)
     no-repeat center;
   background-size: cover;
   z-index: 279;
@@ -1619,7 +1620,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/a8536759-7b9b-4c1d-8ef1-7b0fb5585d4c.png)
+  background: url(../img/User.svg)
     no-repeat center;
   background-size: cover;
   z-index: 287;
@@ -1653,7 +1654,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/77b09313-f6d4-4ae9-a537-f0b5d388de53.png)
+  background: url(../img/gear\ 1.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 281;
@@ -1698,7 +1699,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/7eb9b253-95a4-448e-ae05-422e932e8c10.png)
+  background: url(../img/File-user.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 284;
@@ -1732,7 +1733,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/782d7c95-7fb2-43c1-a786-d8b2234967ce.png)
+  background: url(../img/petrol\ 1.svg)
     no-repeat center;
   background-size: cover;
   z-index: 290;
@@ -1759,7 +1760,6 @@ button {
   flex-shrink: 0;
   gap: 8px;
   position: relative;
-  width: 173px;
   padding: 18px 30px 18px 30px;
   background: #299764;
   z-index: 292;
@@ -1768,7 +1768,6 @@ button {
 .login-5c {
   flex-shrink: 0;
   position: relative;
-  width: 113px;
   height: 22px;
   cursor: pointer;
   color: #ffffff;
@@ -1854,7 +1853,7 @@ button {
   position: relative;
   width: 42px;
   height: 42px;
-  background: url(./assets/images/3d981901-8955-4964-b9f6-6a02c17a2776.png)
+  background: url(../img/Ava.svg)
     no-repeat center;
   background-size: cover;
   z-index: 125;
@@ -1904,7 +1903,7 @@ button {
   position: relative;
   width: 42px;
   height: 42px;
-  background: url(./assets/images/ee4369f4-916b-477c-84df-a502b01f3f4c.png)
+  background: url(../img/Group\ 5.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 129;
@@ -1974,7 +1973,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/563877bf-f517-4c6e-ab65-d0d25b63ed7d.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 116;
@@ -1984,7 +1983,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/936bef98-15f9-4e42-bb81-08f52b64c219.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 117;
@@ -1994,7 +1993,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/c09a7a89-d526-4fa7-b35b-dffacf157902.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 118;
@@ -2004,7 +2003,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/456bd52a-7217-4207-8ec3-346ed10bee7a.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 119;
@@ -2014,7 +2013,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/02bfae16-a68b-4805-94e7-e5f5fc43501a.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 120;
@@ -2053,7 +2052,7 @@ button {
   position: relative;
   width: 42px;
   height: 42px;
-  background: url(./assets/images/954adc87-7c6d-4e3d-970f-6ea272853738.png)
+  background: url(../img/Ava\ \(1\).svg)
     no-repeat center;
   background-size: cover;
   z-index: 143;
@@ -2103,7 +2102,7 @@ button {
   position: relative;
   width: 42px;
   height: 42px;
-  background: url(./assets/images/decc2c82-6179-4350-a0d9-ac8bd758982f.png)
+  background: url(../img/Group\ 5.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 147;
@@ -2173,7 +2172,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/8fbfc6cf-84bb-494b-b0e7-b48428df0498.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 134;
@@ -2183,7 +2182,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/88b2f669-2f48-4553-9794-fc2dc2923617.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 135;
@@ -2193,7 +2192,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/b19fd47d-ca02-4afe-a983-bc9bf9ff87d4.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 136;
@@ -2203,7 +2202,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/84d14de3-1145-492b-a386-6e9c04064661.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 137;
@@ -2213,7 +2212,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/ba4b476e-bc30-48a1-80ad-4ddec6ed3e91.png)
+  background: url(../img/Star-half.svg)
     no-repeat center;
   background-size: cover;
   z-index: 138;
@@ -2252,7 +2251,7 @@ button {
   position: relative;
   width: 42px;
   height: 42px;
-  background: url(./assets/images/76c8f0c0-5683-4704-8b07-6f05254ec7f2.png)
+  background: url(../img/Ava\ \(2\).svg)
     no-repeat center;
   background-size: cover;
   z-index: 161;
@@ -2302,7 +2301,7 @@ button {
   position: relative;
   width: 42px;
   height: 42px;
-  background: url(./assets/images/6c3b89ec-da8b-4713-8929-0a1ab4fb2a20.png)
+  background: url(../img/Group\ 5.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 165;
@@ -2372,7 +2371,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/460cdc94-72d6-4ea2-892b-1f87fcf4cc4c.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 152;
@@ -2382,7 +2381,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/a765096a-16df-4b77-af22-c75ce6bfeed2.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 153;
@@ -2392,7 +2391,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/55cceaf3-4b7b-486f-aa0e-db9ce0061b84.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 154;
@@ -2402,7 +2401,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/04533b09-4ffa-4718-8cbc-dd8313d9b9c9.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 155;
@@ -2412,7 +2411,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/55e2ad8f-0c97-4cea-917c-a16b39fabee8.png)
+  background: url(../img/Star.svg)
     no-repeat center;
   background-size: cover;
   z-index: 156;
@@ -2452,7 +2451,7 @@ button {
   width: 20px;
   height: 20px;
   margin: 8px 0 0 8px;
-  background: url(./assets/images/946b31d8-09fb-4a5e-a820-b4e4d458f7a2.png)
+  background: url(../img/Caret\ right.png)
     no-repeat center;
   background-size: cover;
   z-index: 108;
@@ -2472,7 +2471,7 @@ button {
   width: 20px;
   height: 20px;
   margin: 8px 0 0 8px;
-  background: url(./assets/images/5fee50f8-9f19-4fdb-b567-e1cd3748b331.png)
+  background: url(../img/Caret\ right.jpg)
     no-repeat center;
   background-size: cover;
   z-index: 110;
@@ -2483,7 +2482,7 @@ button {
   height: 4px;
   top: 17px;
   left: 0;
-  background: url(./assets/images/61ccd2e9-46b8-46d3-b8de-8fc20893b59e.png)
+  background: url(../img/Group\ 10.png)
     no-repeat center;
   background-size: cover;
   z-index: 105;
@@ -2528,7 +2527,7 @@ button {
   position: relative;
   width: 20px;
   height: 20px;
-  background: url(./assets/images/f8c60e43-4460-4f65-b796-dc2a6dc26683.png)
+  background: url(../img/Group\ 5.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 169;
@@ -2568,7 +2567,7 @@ button {
   position: relative;
   width: 330px;
   height: 2px;
-  background: url(./assets/images/392cc77a-bb83-46a8-acad-314ee978adf0.png)
+  background: url(../img/Rectangle\ 4.png)
     no-repeat center;
   background-size: cover;
   z-index: 172;
@@ -2610,11 +2609,12 @@ button {
   background: #ffffff;
   z-index: 175;
   border-radius: 100px;
+ 
 }
 .instagram-8e {
   flex-shrink: 0;
   position: relative;
-  width: 94px;
+
   height: 22px;
   cursor: pointer;
   font-family: Montserrat, var(--default-font-family);
@@ -2624,6 +2624,7 @@ button {
   background: transparent;
   border: none;
   z-index: 176;
+  background: #F9ED32, #EE2A7B, #D22A8A, #8B2AB2, #1B2AF0, #002AFF;
 }
 .brands-of-cars {
   display: flex;
@@ -2670,7 +2671,7 @@ button {
   position: relative;
   width: 140px;
   height: 40px;
-  background: url(./assets/images/1af32cbb-cd0a-41b9-b84a-9125c6468a97.png)
+  background: url(../img/image\ 9.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 95;
@@ -2681,8 +2682,8 @@ button {
   width: 140px;
   height: 40px;
   cursor: pointer;
-  background: transparent;
-  background: no-repeat center;
+  background: url(../img/image\ 10.png)
+  no-repeat center;
   background-size: 100% 100%;
   border: none;
   z-index: 96;
@@ -2693,8 +2694,8 @@ button {
   width: 140px;
   height: 40px;
   cursor: pointer;
-  background: transparent;
-  background: no-repeat center;
+  background: url(../img/image\ 11.png)
+  no-repeat center; 
   background-size: 100% 100%;
   border: none;
   z-index: 97;
@@ -2706,7 +2707,8 @@ button {
   height: 40px;
   cursor: pointer;
   background: transparent;
-  background: no-repeat center;
+  background: url(../img/image\ 12.png)
+  no-repeat center; 
   background-size: 100% 100%;
   border: none;
   z-index: 98;
@@ -2717,8 +2719,8 @@ button {
   width: 140px;
   height: 40px;
   cursor: pointer;
-  background: transparent;
-  background: no-repeat center;
+  background: url(../img/Group\ 2\ 1.png)
+  no-repeat center; 
   background-size: cover;
   border: none;
   z-index: 99;
@@ -2728,7 +2730,7 @@ button {
   position: relative;
   width: 140px;
   height: 40px;
-  background: url(./assets/images/25dd2473-613a-44fc-9347-1f3736a1ca54.png)
+  background: url(../img/volkswagen-vector-svg-3\ 3.png)
     no-repeat center;
   background-size: cover;
   z-index: 100;
@@ -2847,7 +2849,7 @@ button {
   height: 60px;
   top: 0;
   left: 458px;
-  background: url(./assets/images/0cf76aff-42ea-4744-b7db-c9dd27e84461.png)
+  background: url(../img/Desktop.png)
     no-repeat center;
   background-size: cover;
   z-index: 91;
@@ -2908,7 +2910,7 @@ button {
   height: 60px;
   top: 0;
   left: 458px;
-  background: url(./assets/images/755d8ab5-9925-4515-98f7-0700d776598a.png)
+  background: url(../img/Shield.png)
     no-repeat center;
   background-size: cover;
   z-index: 79;
@@ -2979,7 +2981,7 @@ button {
   height: 60px;
   top: 0;
   left: 458px;
-  background: url(./assets/images/10478c44-d7b3-4a91-9f18-43d3d9fb927a.png)
+  background: url(../img/User-clock.png)
     no-repeat center;
   background-size: cover;
   z-index: 83;
@@ -3040,7 +3042,7 @@ button {
   height: 60px;
   top: 0;
   left: 458px;
-  background: url(./assets/images/5706913d-6f43-441f-b432-711b1df40957.png)
+  background: url(../img/Wallet.png)
     no-repeat center;
   background-size: cover;
   z-index: 87;
@@ -3078,7 +3080,7 @@ button {
   height: 300px;
   top: 30px;
   left: 787px;
-  background: url(./assets/images/e20ff216-7391-4565-8a81-8db63a1655d2.png)
+  background: url(../img/Ellipse\ 125.png)
     no-repeat center;
   background-size: cover;
   z-index: 57;
@@ -3133,7 +3135,7 @@ button {
   height: 452px;
   top: 50px;
   left: 744px;
-  background: url(./assets/images/7f12a73b-ade3-450c-ba73-639e6639acda.png)
+  background: url(../img/wepik--2022427-105555-removebg-preview\ 1.png)
     no-repeat center;
   background-size: cover;
   z-index: 58;
@@ -3154,7 +3156,7 @@ button {
   width: 30px;
   height: 30px;
   margin: 20px 0 0 150px;
-  background: url(./assets/images/05a0f455-a147-4641-bf8d-dc02bec9946b.png)
+  background: url(../img/Heartbeat.svg)
     no-repeat center;
   background-size: cover;
   z-index: 63;
@@ -3191,7 +3193,7 @@ button {
   width: 30px;
   height: 30px;
   margin: 20px 0 0 150px;
-  background: url(./assets/images/1a1981fb-8469-4045-863a-5b2f0d06e001.png)
+  background: url(../img/Flask-alt.svg)
     no-repeat center;
   background-size: cover;
   z-index: 66;
@@ -3228,7 +3230,7 @@ button {
   width: 30px;
   height: 30px;
   margin: 20px 0 0 150px;
-  background: url(./assets/images/34e1d1fe-acc0-4a96-81ed-8eb00e3c9a6b.png)
+  background: url(../img/Folder-lock.svg)
     no-repeat center;
   background-size: cover;
   z-index: 69;
@@ -3283,7 +3285,7 @@ button {
   position: relative;
   width: 150px;
   height: 40px;
-  background: url(./assets/images/313206e9-22c2-40df-b254-21a7822dfd76.png)
+  background: url(../img/Logo\ \(1\).png)
     no-repeat center;
   background-size: cover;
   z-index: 3;
@@ -3875,7 +3877,7 @@ button {
   height: 100%;
   top: 0;
   left: 0;
-  background: url(./assets/images/26639439-a393-498d-9ee8-deb9e644ac6c.png)
+  background: url(../img/socials.svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 46;
@@ -3893,7 +3895,7 @@ button {
   height: 100%;
   top: 0;
   left: 0;
-  background: url(./assets/images/b7a022a1-8aba-447c-95c8-0ed0e23f572e.png)
+  background: url(../img/socials\ \(1\).svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 48;
@@ -3911,7 +3913,7 @@ button {
   height: 100%;
   top: 0;
   left: 0;
-  background: url(./assets/images/187ebf99-4d89-4ec6-85a8-b5208301647c.png)
+  background: url(../img/socials\ \(2\).svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 50;
@@ -3929,7 +3931,7 @@ button {
   height: 100%;
   top: 0;
   left: 0;
-  background: url(./assets/images/c0e2741e-0b5e-4e5a-96c1-add6060a7914.png)
+  background: url(../img/socials\ \(3\).svg)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 52;
@@ -3950,7 +3952,7 @@ button {
   width: 32px;
   height: 32px;
   margin: 19px 0 0 19px;
-  background: url(./assets/images/31992083-0aa2-4ec3-a3f2-89f58261ab50.png)
+  background: url(../img/Arrow\ up.png)
     no-repeat center;
   background-size: cover;
   z-index: 55;
@@ -4034,7 +4036,7 @@ button {
   height: 500px;
   top: 0;
   left: 0;
-  background: url(./assets/images/8abe6a16-059d-402b-8330-ab28fb54c72a.png)
+  background: url(../img/Rectangle\ 671.png)
     no-repeat center;
   background-size: cover;
   z-index: 298;
@@ -4193,7 +4195,7 @@ button {
   width: 20px;
   height: 20px;
   margin: 8px 0 0 8px;
-  background: url(./assets/images/acd7583f-3ff1-475b-89ba-fd8a0d96eaf2.png)
+  background: url(../img/Caret\ right.png)
     no-repeat center;
   background-size: cover;
   z-index: 320;
@@ -4213,7 +4215,7 @@ button {
   width: 20px;
   height: 20px;
   margin: 8px 0 0 8px;
-  background: url(./assets/images/d85fe230-cabd-4e6c-afbc-51d14fd45447.png)
+  background: url(../img/Caret\ right.png)
     no-repeat center;
   background-size: cover;
   z-index: 322;
@@ -4286,7 +4288,7 @@ button {
   width: 24px;
   height: 24px;
   margin: 17px 0 0 17px;
-  background: url(./assets/images/34204d83-fe94-4f58-ae92-ef72f08bccf0.png)
+  background: url(../img/Search.png)
     no-repeat center;
   background-size: cover;
   z-index: 325;
